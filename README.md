@@ -1,4 +1,5 @@
-# HALF_ADDER_SUBTRACTOR
+# DATE:
+# EXP-3:HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -53,6 +54,10 @@ Figure -02 HALF Subtractor
  Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
 ```
+
+Developed by:PREETHI A K
+RegisterNumber:212223230156
+
 module EXP3(a,b,sum,carry,D,Bo);
 input a,b;
 output sum,carry,D,Bo; 
@@ -66,8 +71,8 @@ endmodule
 ```
 
 
-## Developed by:PREETHI A K
-## RegisterNumber:212223230156
+Developed by:PREETHI A K
+ RegisterNumber:212223230156
 
 **RTL Schematic**
 ![EXP3 DE](https://github.com/user-attachments/assets/7d900001-8780-404a-bebd-7cf54ddbdf81)
